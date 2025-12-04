@@ -1,7 +1,7 @@
 const { Client, GatewayIntentBits } = require('discord.js');
 
 // Put *your* Discord user ID here
-const OWNER_ID = "YOUR_USER_ID";
+const OWNER_ID = "1074534052096397402";
 
 const client = new Client({
     intents: [
